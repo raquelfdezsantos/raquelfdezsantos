@@ -48,7 +48,7 @@ Hoy aplico esas habilidades en el ámbito del desarrollo de software.
 
 ### Stats de mi GitHub  
 
-![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)  
+![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfdezsantos&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelfdezsantos&layout=compact&theme=radical)  
 
 ---
