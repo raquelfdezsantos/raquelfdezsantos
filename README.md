@@ -1,4 +1,4 @@
-# Hola, soy Raquel 👋  
+# Hola, soy Raquel   
 
 Desarrolladora junior con foco en **backend, lógica de negocio y estructura de sistemas**, en transición profesional desde el sector de la construcción al desarrollo de software.
 
