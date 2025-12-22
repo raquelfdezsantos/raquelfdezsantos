@@ -1,6 +1,6 @@
 # Hola, soy Raquel   
 
-Desarrolladora junior con foco en **backend, lógica de negocio y estructura de sistemas**, en transición profesional desde el sector de la construcción al desarrollo de software.
+Junior Full Stack Developer con foco en **backend, lógica de negocio y estructura de sistemas**, en transición profesional desde el sector de la construcción al desarrollo de software.
 
 Durante más de 9 años trabajé como jefe de obra y delineante técnico, gestionando proyectos reales de principio a fin: coordinación de equipos, control de tiempos y presupuestos y resolución de problemas en entornos complejos, con múltiples dependencias y decisiones críticas. Esa base es la que hoy traslado al ámbito tecnológico.
 
