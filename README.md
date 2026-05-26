@@ -54,8 +54,4 @@ El objetivo del proyecto fue recorrer todo el ciclo de una aplicación full stac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquelfdezsantos/)
 
----
 
-![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfdezsantos&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelfdezsantos&layout=compact)
