@@ -56,6 +56,6 @@ El objetivo del proyecto fue recorrer todo el ciclo de una aplicación full stac
 
 ---
 
-![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfdezsantos&show_icons=true&theme=radical)
+![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfdezsantos&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelfdezsantos&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelfdezsantos&layout=compact)
