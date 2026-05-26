@@ -1,35 +1,39 @@
-# Hola, soy Raquel   
+# Hola, soy Raquel 
 
-Junior Full Stack Developer con foco en **backend, lógica de negocio y estructura de sistemas**, en transición profesional desde el sector de la construcción al desarrollo de software.
+Junior Full Stack Developer con foco en **backend, APIs y lógica de negocio**.
 
-Durante más de 9 años trabajé como jefe de obra y delineante técnico, gestionando proyectos reales de principio a fin: coordinación de equipos, control de tiempos y presupuestos y resolución de problemas en entornos complejos, con múltiples dependencias y decisiones críticas. Esa base es la que hoy traslado al ámbito tecnológico.
+Tras más de 9 años gestionando proyectos técnicos en el sector de la construcción, decidí reorientar mi carrera hacia el desarrollo de software, trasladando esa experiencia en coordinación, resolución de problemas y organización al ámbito tecnológico.
 
 ---
 
 ## Experiencia reciente
 
-He finalizado mis prácticas como **Full Stack Developer**, participando en:
+He realizado prácticas como **Full Stack Developer** en entorno Laravel, participando en:
 
-- Mantenimiento y resolución de bugs en una aplicación legacy en **Laravel 5.6**
-- Documentación técnica de incidencias (causa, solución e impacto)
-- Apoyo en la planificación de una migración progresiva a **Laravel 8**
-- Preparación y puesta en producción de la aplicación migrada en entorno interno de la empresa
+- Migración de una aplicación legacy desde **Laravel 5.6 a Laravel 8**, analizando dependencias, compatibilidades y breaking changes
+- Resolución de incidencias sobre lógica de negocio, controladores, rutas y vistas Blade
+- Documentación técnica de bugs y cambios funcionales
+- Preparación y despliegue interno de la aplicación migrada
+- Soporte frontend y optimización utilizando DevTools
 
 ---
 
 ## Proyecto destacado
 
-### Staynest · Plataforma de gestión de viviendas turísticas  
+### Staynest · Plataforma de gestión de viviendas turísticas
+
 Proyecto desarrollado como trabajo final de DAW, concebido desde la lógica de negocio hasta el despliegue.
 
 Incluye:
-- Motor de reservas propio con reglas de disponibilidad y precios
-- Pagos con Stripe y facturación automática en PDF
-- Multipropiedad real y control de acceso por roles
-- Arquitectura monolítica en Laravel
-- Despliegue con **Docker** y **Nginx**
 
-El objetivo del proyecto fue recorrer **todo el ciclo de una aplicación**.
+- Motor de reservas con reglas de disponibilidad y cálculo dinámico de precios
+- Integración de pagos con Stripe (**PaymentIntents + webhooks**)
+- Facturación automática en PDF y emails transaccionales
+- Multipropiedad y control de acceso por roles
+- Integración con **Google Maps API**
+- Despliegue con **Docker**, **Nginx** y **PHP-FPM**
+
+El objetivo del proyecto fue recorrer todo el ciclo de una aplicación full stack.
 
 ---
 
@@ -41,6 +45,7 @@ El objetivo del proyecto fue recorrer **todo el ciclo de una aplicación**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -52,4 +57,5 @@ El objetivo del proyecto fue recorrer **todo el ciclo de una aplicación**.
 ---
 
 ![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfdezsantos&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelfdezsantos&layout=compact&theme=radical)
